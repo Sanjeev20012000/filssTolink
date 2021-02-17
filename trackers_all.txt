@@ -232,6 +232,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://pow7.com:80/announce
 
+https://telly.to/announce
+
 http://open.acgtracker.com:1096/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
